@@ -46,10 +46,6 @@ XSS:
 ## Reporting:
 6. Next, Reporting XSS vulnerability to the website owner through the OpenBugBounty platform.
 
-![Screenshot 2024-02-07 150341](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/6376451e-0eb4-4157-bfd0-89cd83808402)
-
-![Screenshot 2024-02-07 150405](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/47e8d5fd-11ce-462e-93f6-0a402f434c61)
-
 ![Screenshot 2024-02-07 150435](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/c58f86cb-ed9e-4bd2-a92d-dabf1872336c)
 
 ### Report in Proper Document:
@@ -88,9 +84,13 @@ Lashkar Varunesh
 Devarasetti Kalyan	
 C.sudheer Kumar Reddy     
 
-## Verification:
+## Verification: (https://www.openbugbounty.org/reports/3849918/)
 
-![Screenshot 2024-02-07 154251](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/f0e8ca44-ad78-4a78-a929-da37b1b09403)
+![Screenshot 2024-02-07 210655](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/bbcdd67a-1313-42df-bae1-3e544de8e1d3)
+
+
+![Screenshot 2024-02-07 210851](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/1c9037ac-60f0-4a0a-97ad-5e6a4d1f4d94)
+
 
 ## Conclusion:
 The Bug hunting on any target of openbugbounty project can help to ensure that vulnerabilities are identified and reported accurately, and that website owners can take necessary measures to improve their website's security.
