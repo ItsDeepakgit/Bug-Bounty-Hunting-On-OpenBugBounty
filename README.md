@@ -28,7 +28,9 @@ The Bug hunting on any target of openbugbounty aims to address this need by iden
 ##### Vulnerable found: CWE-79: Cross-site scripting (XSS)
 ##### Type: Critical
 
-XSS: 
+**XSS:** 
+
+Cross-site scripting (also known as XSS) is a web security vulnerability that allows an attacker to compromise the interactions that users have with a vulnerable application. It allows an attacker to circumvent the same origin policy, which is designed to segregate different websites from each other. Cross-site scripting vulnerabilities normally allow an attacker to masquerade as a victim user, to carry out any actions that the user is able to perform, and to access any of the user's data. 
 
 ![Screenshot 2024-02-07 152308](https://github.com/ItsDeepakgit/Bug-Bounty-Hunting-On-OpenBugBounty/assets/91217911/253e521d-f17d-4e96-834a-73bfa852382f)
 
